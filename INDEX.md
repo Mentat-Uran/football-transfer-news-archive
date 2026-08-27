@@ -42,5 +42,6 @@ Reports are stored by the calendar day they cover. Historical backfill uses the 
 - [2026-08-22](reports/2026/08/2026-08-22.md)
 - [2026-08-23](reports/2026/08/2026-08-23.md) — includes the weekly summary delivered with that report
 - [2026-08-24](reports/2026/08/2026-08-24.md)
+- [2026-08-26](reports/2026/08/2026-08-26.md)
 
-Missing dates are intentionally not fabricated. As of the 2026-08-24 archive update, no complete recoverable report was found for 2026-07-20, 2026-07-25, 2026-07-30, 2026-08-03 or 2026-08-12.
+Missing dates are intentionally not fabricated. No complete archived report is currently present for 2026-07-20, 2026-07-25, 2026-07-30, 2026-08-03, 2026-08-12 or 2026-08-25.
